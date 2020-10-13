@@ -4,6 +4,7 @@ B2 of POSCO Bigdata Academy
 ai project 관련 깃허브입니다.
 
 project name - 자동차 미리 GAN 보기
+
 project due date - 2020/11/13 ~ 2020/11/30
 
 시간이 촉박하니 완성시 바로 공유 + 확인 필수!

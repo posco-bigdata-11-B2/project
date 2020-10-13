@@ -13,3 +13,4 @@ project due date - 2020/11/13 ~ 2020/11/30
   create new file 눌러서 작성 부탁드립니다.
   branch에서 edit_idea 되어 있는지 확인하시고 진행 부탁드립니다.
 
+ㄷㄷ
